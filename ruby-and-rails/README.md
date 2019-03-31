@@ -1,6 +1,6 @@
 ### Variables and Methods
 
-[Variable scope](https://gist.github.com/joshsarna/cc3ea6c22cb7e1e52b380f8f0bc620b0)
+[Variable Scope](https://gist.github.com/joshsarna/cc3ea6c22cb7e1e52b380f8f0bc620b0)
 
 [Block Variables](https://medium.com/r/?url=https%3A%2F%2Fgist.github.com%2Fjoshsarna%2F721d878063cf810c6b9021c96047f20f)
 
