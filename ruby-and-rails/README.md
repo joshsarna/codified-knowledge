@@ -15,7 +15,3 @@
 ### ActiveRecord
 
 [find and find_by](https://gist.github.com/joshsarna/0286ffb30b5d4189c39dc9a09e13e34b)
-
-### Computer Science
-
-[Big O](https://gist.github.com/joshsarna/5e7f6af18d1075c7fd8d52026d6c2d5f)
